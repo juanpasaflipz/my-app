@@ -185,7 +185,7 @@ export function LandingPage() {
             </div>
           </div>
           <div className="mt-8 border-t pt-8 text-center">
-            <p className="text-sm text-gray-600">&copy; 2024 DataCenterDev. All rights reserved.</p>
+            <p className="text-sm text-gray-600">&copy; 2023 DataCenterDev. All rights reserved.</p>
           </div>
         </div>
       </footer>
